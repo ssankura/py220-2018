@@ -68,19 +68,19 @@ First, some terminology:
     5.7 GenMyModel is not free; use draw.io (but you lose code generation).
 
 6. Resources:
-GenMyModel: https://www.genmymodel.com
+* GenMyModel: https://www.genmymodel.com
 
-DDD book: https://www.infoq.com/minibooks/domain-driven-design-quickly
+* DDD book: https://www.infoq.com/minibooks/domain-driven-design-quickly
 
-OO in Python: https://realpython.com/python3-object-oriented-programming/
+* OO in Python: https://realpython.com/python3-object-oriented-programming/
 
-More Python OO: https://jeffknupp.com/blog/2014/06/18/improve-your-python-python-classes-and-object-oriented-programming/
+* More Python OO: https://jeffknupp.com/blog/2014/06/18/improve-your-python-python-classes-and-object-oriented-programming/
 
-OO thought process: https://www.amazon.com/Object-Oriented-Thought-Process-Developers-Library/dp/0321861272
+* OO thought process: https://www.amazon.com/Object-Oriented-Thought-Process-Developers-Library/dp/0321861272
 
-Conway's law: https://en.wikipedia.org/wiki/Conway%27s_law
+* Conway's law: https://en.wikipedia.org/wiki/Conway%27s_law
 
-Class models: http://www.agilemodeling.com/artifacts/classDiagram.htm
+* Class models: http://www.agilemodeling.com/artifacts/classDiagram.htm
 
 
 
