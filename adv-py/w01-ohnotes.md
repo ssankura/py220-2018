@@ -38,26 +38,34 @@ First, some terminology:
     * Model - a simplification of reality. Always wrong, hopefully useful.
     * Diagram - part of a model.
 4. Discovering classes (the most simple way possible).
-Think about your problem domain. Find some related documentation (ideally from the person who is requesting the development). Failing that, talk to the person who made the request. Note down what they are asking you.
+* Think about your problem domain. Find some related documentation (ideally from the person who is requesting the development). Failing that, talk to the person who made the request. Note down what they are asking you.
 
-When you have the notes and/or documentation, use a highlighter so mark all of the nouns. So, in a human resources example, you might highlight employee, job, department, and company. Think of some others...
+* When you have the notes and/or documentation, use a highlighter so mark all of the nouns. So, in a human resources example, you might highlight employee, job, department, and company. Think of some others...
 
-Get a large piece of paper and small yellow stickies. Alternatively, use a modeling tool. For example:
-    Modeling tool: https://www.genmymodel.com/
-Now, either write each noun on a separate sticky, or start to build a model. We'll show the modeling tool. It will quickly become be obvious how to do this with stickies.
+* Get a large piece of paper and small yellow stickies. Alternatively, use a modeling tool. For example:
 
-So now, watch this demo...
+* Modeling tool: https://www.genmymodel.com/
+* Now, either write each noun on a separate sticky, or start to build a model. We'll show the modeling tool. It will quickly become be obvious how to do this with stickies.
 
-I'll embed the diagram here when the session finishes. I'll check the code in here too.
+*So now, watch this demo...
+
+*I'll embed the diagram here when the session finishes. I'll check the code in here too.
 
 5. Some comments:
-5.1 Keep problem domain code separate from technical code. Why?
-5.2 Don't spend too long modeling. Start coding and demoing as soon as you can. Why?
-5.3 Focus on what your classes do, not what they need to know. Why?
-5.4 Define all classes in docstrings. Why?
-5.5 Decomposition and business boundaries. Why?
-5.6 State transitions.
-5.7 GenMyModel is not free; use draw.io (but you lose code generation).
+
+    5.1 Keep problem domain code separate from technical code. Why?
+
+    5.2 Don't spend too long modeling. Start coding and demoing as soon as you can. Why?
+
+    5.3 Focus on what your classes do, not what they need to know. Why?
+
+    5.4 Define all classes in docstrings. Why?
+
+    5.5 Decomposition and business boundaries. Why?
+
+    5.6 State transitions.
+
+    5.7 GenMyModel is not free; use draw.io (but you lose code generation).
 
 6. Resources:
 GenMyModel: https://www.genmymodel.com
