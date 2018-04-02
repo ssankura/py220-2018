@@ -4,18 +4,31 @@ Open House 1: Advanced Python Programming
 Class groundrules and principles
 --------------------------------
 1. What does success on this class look like?
+
 * Participation
+
 * Getting everything right?
+
 2. What do I need to do?
+
 * Try things out
+
 * Ask
+
 * Tell us what you need
+
 * Tell us what can be made better
+
 * As soon as possible!
+
 * You don't have to master everything to pass.
+
 * But you will fail if you don't try.
+
 3. WE ARE HERE TO HELP!
+
 * Use us / contact us
+
 4. Questions?
 
 

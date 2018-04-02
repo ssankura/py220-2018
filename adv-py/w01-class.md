@@ -25,6 +25,6 @@ Things to think about
 * Where are you struggling?
 * Where do you need more information?
 
-Let us know! Use Slack or post q question on Canvas.
+Let us know! Use Slack or post a question on Canvas.
 
 Know of others? Clone and branch / amend / push and send a PR.
