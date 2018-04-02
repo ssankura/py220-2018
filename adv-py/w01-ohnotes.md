@@ -39,17 +39,21 @@ How do I get started?
 ---------------------
 
 1. Recap
+
 * Benefits of OO?
 * Any disadvantages?
+
 2. Python syntax for OO is straightforward.
-  *. Someone describe...
-  .. _a Quick guide to Python OO: https://python.swaroopch.com/oop.html
+
+  * Someone describe...
+  * a Quick guide to Python OO: https://python.swaroopch.com/oop.html
+
 3. But how do I know which classes I need?
 The answer to that is less straightforward. It can be difficult. We'll try to make it as simple as possible.
 First, some terminology:
-    * Problem domain = the subject area for which we are developing a solution. Could be human resources, sales, accounting,...
-    * Model - a simplification of reality. Always wrong, hopefully useful.
-    * Diagram - part of a model.
+* Problem domain = the subject area for which we are developing a solution. Could be human resources, sales, accounting,...
+* Model - a simplification of reality. Always wrong, hopefully useful.
+* Diagram - part of a model.
 4. Discovering classes (the most simple way possible).
 * Think about your problem domain. Find some related documentation (ideally from the person who is requesting the development). Failing that, talk to the person who made the request. Note down what they are asking you.
 
