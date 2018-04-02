@@ -47,9 +47,9 @@ First, some terminology:
 * Modeling tool: https://www.genmymodel.com/
 * Now, either write each noun on a separate sticky, or start to build a model. We'll show the modeling tool. It will quickly become be obvious how to do this with stickies.
 
-*So now, watch this demo...
+* So now, watch this demo...
 
-*I'll embed the diagram here when the session finishes. I'll check the code in here too.
+* I'll embed the diagram here when the session finishes. I'll check the code in here too.
 
 5. Some comments:
 
@@ -69,14 +69,22 @@ First, some terminology:
 
 6. Resources:
 GenMyModel: https://www.genmymodel.com
+
 DDD book: https://www.infoq.com/minibooks/domain-driven-design-quickly
+
 OO in Python: https://realpython.com/python3-object-oriented-programming/
+
 More Python OO: https://jeffknupp.com/blog/2014/06/18/improve-your-python-python-classes-and-object-oriented-programming/
+
 OO thought process: https://www.amazon.com/Object-Oriented-Thought-Process-Developers-Library/dp/0321861272
+
 Conway's law: https://en.wikipedia.org/wiki/Conway%27s_law
+
 Class models: http://www.agilemodeling.com/artifacts/classDiagram.htm
+
 
 
 7. Like this? Want to make it better?
 * Clone and branch / amend / push and send a PR.
+
 * File an issue
