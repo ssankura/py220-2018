@@ -1,2 +1,2 @@
 # py220-2018
-Student working repo for Opne House and class notes
+Student working repo for Open House and class notes
