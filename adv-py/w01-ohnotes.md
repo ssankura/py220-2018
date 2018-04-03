@@ -103,10 +103,8 @@ First, some terminology:
 
 7. Like this? Want to make it better?
 * Clone and branch / amend / push and send a PR.
+* File an issue
 
 8. STOP PRESS
-Iterators: https://anandology.com/python-practice-book/iterators.html
-
-Basics: https://www.programiz.com/python-programming/iterator
-
-* File an issue
+* Iterators: https://anandology.com/python-practice-book/iterators.html
+* Basics: https://www.programiz.com/python-programming/iterator
