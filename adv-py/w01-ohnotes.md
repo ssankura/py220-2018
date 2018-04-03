@@ -69,9 +69,7 @@ First, some terminology:
 * I'll embed the diagram here when the session finishes. I'll check the code in here too.
 
 5. Some comments:
-
     5.1 Keep problem domain code separate from technical code. Why?
-
     5.2 Don't spend too long modeling. Start coding and demoing as soon as you can. Why?
 
     5.3 Focus on what your classes do, not what they need to know. Why?
