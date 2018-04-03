@@ -40,13 +40,12 @@ How do I get started?
 
 1. Recap
 
-* Benefits of OO?
-* Any disadvantages?
+   1. Benefits of OO?
+   1. Any disadvantages?
 
-2. Python syntax for OO is straightforward.
-
-  * Someone describe...
-  * a Quick guide to Python OO: https://python.swaroopch.com/oop.html
+1. Python syntax for OO is straightforward.
+   1. Someone describe...
+   1. a Quick guide to Python OO: https://python.swaroopch.com/oop.html
 
 3. But how do I know which classes I need?
 The answer to that is less straightforward. It can be difficult. We'll try to make it as simple as possible.
