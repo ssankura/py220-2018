@@ -104,4 +104,7 @@ First, some terminology:
 7. Like this? Want to make it better?
 * Clone and branch / amend / push and send a PR.
 
+8. STOP PRESS
+Iterators: https://anandology.com/python-practice-book/iterators.html
+
 * File an issue
