@@ -11,25 +11,25 @@ Class groundrules and principles
 
 1. What do I need to do?
 
-* Try things out
+   1. Try things out
 
-* Ask
+   1. Ask
 
-* Tell us what you need
+   1. Tell us what you need
 
-* Tell us what can be made better
+   1. Tell us what can be made better
 
-* As soon as possible!
+   1. As soon as possible!
 
-* You don't have to master everything to pass.
+   1. You don't have to master everything to pass.
 
-* But you will fail if you don't try.
+   1. But you will fail if you don't try.
 
-3. WE ARE HERE TO HELP!
+1. WE ARE HERE TO HELP!
 
-* Use us / contact us
+   1. Use us / contact us
 
-4. Questions?
+1. Questions?
 
 
 Object Orientation
