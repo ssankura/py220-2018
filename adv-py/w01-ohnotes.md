@@ -3,7 +3,7 @@ Open House 1: Advanced Python Programming
 
 Class groundrules and principles
 --------------------------------
-1. What does success on this class look like?
+1 What does success on this class look like?
 
  1 Participation
 
