@@ -5,9 +5,9 @@ Class groundrules and principles
 --------------------------------
 1. What does success on this class look like?
 
- * Participation
+ 1 Participation
 
- * Getting everything right?
+ 1 Getting everything right?
 
 2. What do I need to do?
 
