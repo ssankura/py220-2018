@@ -107,4 +107,6 @@ First, some terminology:
 8. STOP PRESS
 Iterators: https://anandology.com/python-practice-book/iterators.html
 
+Basics: https://www.programiz.com/python-programming/iterator
+
 * File an issue
