@@ -69,17 +69,13 @@ First, some terminology:
 * I'll embed the diagram here when the session finishes. I'll check the code in here too.
 
 5. Some comments:
-#. Keep problem domain code separate from technical code. Why?
-#. Don't spend too long modeling. Start coding and demoing as soon as you can. Why?
-#. Focus on what your classes do, not what they need to know. Why?
-
-    5.4 Define all classes in docstrings. Why?
-
-    5.5 Decomposition and business boundaries. Why?
-
-    5.6 State transitions.
-
-    5.7 GenMyModel is not free; use draw.io (but you lose code generation).
+ * Keep problem domain code separate from technical code. Why?
+ * Don't spend too long modeling. Start coding and demoing as soon as you can. Why?
+ * Focus on what your classes do, not what they need to know. Why?
+ * Define all classes in docstrings. Why?
+ * Decomposition and business boundaries. Why?
+ * State transitions.
+ * GenMyModel is not free; use draw.io (but you lose code generation).
 
 6. Resources:
 * GenMyModel: https://www.genmymodel.com
